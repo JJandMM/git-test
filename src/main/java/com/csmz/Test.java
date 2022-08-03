@@ -6,6 +6,7 @@ public class Test {
         System.out.println("你好 Git!");
         System.out.println("你薅 Git!");
         System.out.println("你薅");
+        System.out.println("NB");
         System.out.println("MASTER NB");
     }
 }
