@@ -10,5 +10,6 @@ public class Test {
         System.out.println("MASTER NB");
         System.out.println("push test!");
         System.out.println("pull test!");
+        System.out.println("result!");
     }
 }
