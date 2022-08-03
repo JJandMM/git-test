@@ -8,5 +8,6 @@ public class Test {
         System.out.println("你薅");
         System.out.println("NB");
         System.out.println("MASTER NB");
+        System.out.println("push test!");
     }
 }
